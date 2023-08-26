@@ -1,0 +1,49 @@
+{
+  "global": {
+    "server_id": "1105944497906524182",
+    "bot_token": "YOUR_TOKEN_HERE",
+    "command_prefix": "!",
+    "log_channel_id": 1105944499231932449,
+    "hoster_perms": [ 1105944497906524186 ],
+    "mod_perms": [ 1105944497906524189, 1115771675020099706, 1105944498003001466 ],
+    "admin_perms": [ 1115771675020099706, 1105944498003001466,1116129077426929784 ],
+    "hosting_channels": [ 1105944499026403412, 1115370457437315162 ],
+    "queue_channels": { "1105944499026403412" : 1105944499026403416, "1115370457437315162" : 1115370602451185675 },
+    "team_red_channels": {  "1105944499026403412" : 1105944499026403417, "1115370457437315162" :1115370665386725376 },
+    "team_blue_channels": {  "1105944499026403412" : 1105944499026403418, "1115370457437315162" : 1115370684667940895 },
+    "team_red_roles": { "1105944499026403412" : 1105944497906524184, "1115370457437315162" : 1115372011888316419 },
+    "team_blue_roles": {"1105944499026403412" : 1105944497906524183, "1115370457437315162" : 1115372019643600968 },
+    "legacy_hosts" : [1115370457437315162],
+    "2v2_hosts": [ false, false ],
+    "logo": "https://i.imgur.com/fVUuelH.png",
+    "2v2maps": [ "de_overpass", "de_vertigo", "de_lake", "de_shorttrain", "de_inferno", "de_shortnuke", "de_shortdust", "gd_rialto", "de_cbble", "de_stmarc", "de_bank", "de_safehouse" ],
+    "5v5maps": [ "de_cbble", "de_dust2", "de_inferno", "de_mirage", "de_nuke", "de_train", "de_overpass", "de_cache", "cs_assault", "cs_agency", "cs_italy", "cs_office", "de_austria" ,"de_canals" ,"de_shipped"],
+    "servers": 2                                                           
+    ,
+
+	  "server_count": 2,
+
+    "server1": {
+    
+
+  },
+  
+  "server2": {
+   
+  }
+ }
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
